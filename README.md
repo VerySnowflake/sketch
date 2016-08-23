@@ -1,1 +1,2 @@
-# sketchpad/etch-a-sketch thing
+# Sketchpad/etch-a-sketch thing
+Hi there!
